@@ -27,3 +27,6 @@ Barramento -> APIFatura: Consultar dados adicionais da fatura
 Barramento -> Sistema: Retornar dados da fatura
 Sistema -> Aplicativo: Enviar fatura para exibição
 @enduml
+
+
+![alt text](image.png)
